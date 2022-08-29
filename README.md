@@ -20,7 +20,7 @@ https://github.com/MslFox/ThreadLocal.Atomics.Volatile/blob/f5b7f5500f99536b11ff
 - В потоке-игрушке нужно реализовать возможность прерывания потока 
 ____
 ## Задача 2. Отчет для налоговой 
-https://github.com/MsLFoxGit/ThreadLocal.Atomics.Volatile/blob/f5b7f5500f99536b11ffa643155675ac343587d4/Main.java#L48
+https://github.com/MslFox/ThreadLocal.Atomics.Volatile/blob/f5b7f5500f99536b11ffa643155675ac343587d4/Main.java#L48
 ### Описание
 У вас есть 3 магазина в городе, которые продают продукты. Вам нужно каждый день при закрытии кассы подавать общий отчет в налоговую службу по своим магазинам. Так как магазины закрываются одновременно - выручка тоже считается одновременно по всем магазинам.
 
