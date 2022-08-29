@@ -1,7 +1,7 @@
 # Домашнее задание. Переменные многопоточной программы. ThreadLocal. Atomics. Volatile.
 ___
 ## Задача 1. Самая бесполезная коробка 
-https://github.com/MsLFox/ThreadLocal.Atomics.Volatile/blob/f5b7f5500f99536b11ffa643155675ac343587d4/Main.java#L18
+https://github.com/MslFox/ThreadLocal.Atomics.Volatile/blob/f5b7f5500f99536b11ffa643155675ac343587d4/Main.java#L18
 ### Описание
 Реализация игрушки [cамая бесполезная коробка]( http://www.youtube.com/watch?v=tGCW8xftdOA). Один поток будет выключать тумблер, а второй будет эмулировать пользователя, то есть включать тумблер с какой-то периодичностью
 
